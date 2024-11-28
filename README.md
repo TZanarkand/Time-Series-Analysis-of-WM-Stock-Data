@@ -15,20 +15,20 @@
 ********************************************************************************
 
 ## รายงานฉบับนี้ประกอบไปด้วยหัวข้อทั้งหมด 8 หัวข้อ
-  1. ขั้นตอนจัดเตรียมข้อมูล
-  2. การทดสอบแนวโน้ม อิทธิพลของฤดูกาลและ สเตชันนารี 
-    2.1 Testing of Normality
-    2.2 Testing for Trend 
-    2.3 Testing for Seasonal
-    2.4 Testing for Stationary 
-  3. วิธีบ็อกซ์และเจนกินส์ (Box-Jenkins)
-    3.1 Autocorrelation Function
-    3.2 Partial Autocorrelations 
-  4. การขจัดข้อมูลที่ไม่สเตชันนารีด้วยการหาผลต่าง (Difference) 1 ครั้ง 
-  5. ผลทดสอบโมเดลของ Box-Jenkins
-  6. ทำการเปรียบเทียบทั้ง 8 Model ของการทดสอบ Box-Jenkins
-  7. วิธีปรับให้เรียบเอ็กซ์โปเนนเซียลแบบดับเบิ้ล (Double Exponential Smoothing)
-  8. สรุปผล
+1. ขั้นตอนจัดเตรียมข้อมูล
+2. การทดสอบแนวโน้ม อิทธิพลของฤดูกาลและ สเตชันนารี
+   * 2.1 Testing of Normality
+   * 2.2 Testing for Trend
+   * 2.3 Testing for Seasonal
+   * 2.4 Testing for Stationary
+3. วิธีบ็อกซ์และเจนกินส์ (Box-Jenkins)
+   * 3.1 Autocorrelation Function
+   * 3.2 Partial Autocorrelations
+4. การขจัดข้อมูลที่ไม่สเตชันนารีด้วยการหาผลต่าง (Difference) 1 ครั้ง 
+5. ผลทดสอบโมเดลของ Box-Jenkins
+6. ทำการเปรียบเทียบทั้ง 8 Model ของการทดสอบ Box-Jenkins
+7. วิธีปรับให้เรียบเอ็กซ์โปเนนเซียลแบบดับเบิ้ล (Double Exponential Smoothing)
+8. สรุปผล
 
   ********************************************************************************
 
